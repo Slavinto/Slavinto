@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there, my name is Slava.
+I live in Russia and work as an engineer in RSC Energia. 
+Planning on switching carreer for programming (web development), currently learning Javascript React Next.js stack.
 
 <!--
 **Slavinto/Slavinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
